@@ -1,7 +1,9 @@
 # Google-Sites-Javascript
+
 Google Sites Javascript - CAJA / HTMLBox &amp; Apps Script
 
-More Information & Examples on Google Sites :
+More Information & Examples for Google Sites :
 
-Google Sites Examples
+Google Sites Examples : 
+
 http://www.goopal.org/
